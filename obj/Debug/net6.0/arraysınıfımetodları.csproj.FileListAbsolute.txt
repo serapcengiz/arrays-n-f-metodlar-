@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\bin\Debug\net6.0\arraysınıfımetodları.exe
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\bin\Debug\net6.0\arraysınıfımetodları.deps.json
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\bin\Debug\net6.0\arraysınıfımetodları.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\bin\Debug\net6.0\arraysınıfımetodları.dll
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\bin\Debug\net6.0\arraysınıfımetodları.pdb
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.dll
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\refint\arraysınıfımetodları.dll
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.pdb
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\arraysınıfımetodları.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\arraysınıfımetodları\obj\Debug\net6.0\ref\arraysınıfımetodları.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "arraysınıfımetodları/1.0.0": {
+        "runtime": {
+          "arraysınıfımetodları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arraysınıfımetodları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
